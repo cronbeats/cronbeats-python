@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cronbeats-python"
-version = "0.1.1"
+version = "0.1.2"
 description = "Cron job monitoring and heartbeat monitoring SDK for Python. Monitor scheduled tasks, background jobs, and cron jobs with simple ping telemetry. Get alerts when cron jobs fail, miss their schedule, or run too long."
 readme = "README.md"
 requires-python = ">=3.9"
