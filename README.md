@@ -1,5 +1,9 @@
 # CronBeats Python SDK (Ping)
 
+[![PyPI version](https://img.shields.io/pypi/v/cronbeats-python)](https://pypi.org/project/cronbeats-python/)
+[![Downloads](https://img.shields.io/pypi/dm/cronbeats-python)](https://pypi.org/project/cronbeats-python/)
+[![Python versions](https://img.shields.io/pypi/pyversions/cronbeats-python)](https://pypi.org/project/cronbeats-python/)
+
 Official Python SDK for CronBeats ping telemetry.
 
 ## Install
